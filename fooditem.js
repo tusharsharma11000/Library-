@@ -13,7 +13,7 @@ const foodItem= [
     name: 'Hyderabadi Biryani',
     category : 'biryani',
     rating : 4.3,
-    price: 170,
+    price: 270,
     img: 'https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg',
     quantity: 1
 },
@@ -24,7 +24,7 @@ const foodItem= [
     name: 'Mutton Biryani',
     category : 'biryani',
     rating : 4.7,
-    price: 450,
+    price: 150,
     img: 'https://static.toiimg.com/thumb/52568357.cms?imgsize=158081&width=800&height=800',
     quantity: 1
 },
